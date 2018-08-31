@@ -1,0 +1,11 @@
+*.sln
+*.meta
+*.json
+*.csproj
+*.vs
+.vs/
+Temp/
+UnityPackageManager/
+ProjectSettings/
+obj/
+Library/
